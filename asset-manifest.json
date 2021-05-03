@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-animated/static/css/main.679a00e2.chunk.css",
+    "main.js": "/weather-animated/static/js/main.1ad2b531.chunk.js",
+    "main.js.map": "/weather-animated/static/js/main.1ad2b531.chunk.js.map",
+    "runtime-main.js": "/weather-animated/static/js/runtime-main.97e9cb43.js",
+    "runtime-main.js.map": "/weather-animated/static/js/runtime-main.97e9cb43.js.map",
+    "static/js/2.ac183f25.chunk.js": "/weather-animated/static/js/2.ac183f25.chunk.js",
+    "static/js/2.ac183f25.chunk.js.map": "/weather-animated/static/js/2.ac183f25.chunk.js.map",
+    "index.html": "/weather-animated/index.html",
+    "static/css/main.679a00e2.chunk.css.map": "/weather-animated/static/css/main.679a00e2.chunk.css.map",
+    "static/js/2.ac183f25.chunk.js.LICENSE.txt": "/weather-animated/static/js/2.ac183f25.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather-animated/static/media/background.a75f23f8.jpg",
+    "static/media/cloudy.24f9a474.svg": "/weather-animated/static/media/cloudy.24f9a474.svg",
+    "static/media/day.c33ef664.svg": "/weather-animated/static/media/day.c33ef664.svg",
+    "static/media/rainy-6.130d6250.svg": "/weather-animated/static/media/rainy-6.130d6250.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e9cb43.js",
+    "static/js/2.ac183f25.chunk.js",
+    "static/css/main.679a00e2.chunk.css",
+    "static/js/main.1ad2b531.chunk.js"
+  ]
+}
